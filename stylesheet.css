@@ -1,0 +1,25 @@
+.title-main {
+    text-align: center;
+}
+
+.color-blue {
+    color: blue;
+}
+
+.background-blue {
+    background-color: blue;
+}
+
+.title-h2 {
+    color: blue;
+}
+
+.background-black {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+#title {
+    text-align: left;
+}
